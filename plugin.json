@@ -1,0 +1,11 @@
+{
+  "ID": "obsidian-link-opener-unique-id-001",
+  "ActionKeyword": "olo",
+  "Name": "Obsidian Link Opener",
+  "Description": "Extracts URLs from Obsidian notes frontmatter",
+  "Author": "oganii",
+  "Version": "1.0.0",
+  "Language": "python",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "main.py"
+}
